@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 👨‍💻 All of my projects are available at [https://classy-cajeta-708979.netlify.app/](https://classy-cajeta-708979.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://classy-cajeta-708979.netlify.app/](https://harmonious-griffin-5bdf2e.netlify.app/)
 
 - 💬 Ask me about **Web Development**
 
